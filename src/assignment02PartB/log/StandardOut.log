@@ -1,0 +1,32 @@
+----------------------------------------------------------------------
+---------------------- SF GIANTS THANK YOU ---------------------------
+----------------------------------------------------------------------
+                                             powered by CSC 220 @ SFSU 
+Language: Time Zone: ----------------------------------------------------------------------
+Language:                 ENGLISH                                            
+Time Zone:                Pacific Standard Time in Day Light Saving          
+Color Sequences:          ANSI                                               
+Standard Output Log:      ./src/assignment02PartB/log/StandardOut.log        
+Standard Error Log:       ./src/assignment02PartB/log/StandardErr.log        
+Receipt Log:              ./src/assignment02PartB/log/Receipt-*-*.log        
+Default University:       San Francisco State University                     
+Default Club:             San Francisco Giants                               
+----------------------------------------------------------------------
+2025/06/21 03:53:00 [2288 ms] PM PDT - Chat session started.
+SF Giants: Welcome to the SAN FRANCISCO GIANTS!
+----------------------------------------------------------------------
+Club:                   San Francisco Giants
+Short Name:             SF Giants
+Established in:         1883
+Colors:                 Orange, Black, Gold, Cream
+Ballpark:               Oracle Park
+World Series Titles:    8
+NL Pennants:            23
+Division Titles:        8
+Wild Card Berths:       3
+Owners:                 San Francisco Baseball Associates LLC
+President:              Farhan Zaidi
+General Manager:        Scott Harris
+Manager:                Gabe Kapler
+----------------------------------------------------------------------
+SF Giants: Your first name and last name, please: 
